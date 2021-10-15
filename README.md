@@ -56,5 +56,5 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marifujikawa&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marifujikawa" height="170" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marifujikawa&show_icons=true&locale=en&theme=dracula" alt="marifujikawa" height="170"/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marifujikawa&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marifujikawa" height="150" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marifujikawa&show_icons=true&locale=en&theme=dracula" alt="marifujikawa" height="150"/>
 </p>
