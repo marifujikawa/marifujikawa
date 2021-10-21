@@ -7,7 +7,7 @@
 <p></p>
 
 
-- 🌎 Fluent English (CAE - C1- Certificate in Advanced English)
+- 🌎 Fluent English (Cambridge's CAE - C1- Certificate in Advanced English)
 - 🌏 Fluent French (DALF - C1 - Diplôme Approfondi de Langue Française)
 - 🌍 Native Portuguese
 - 🌎 Intermediate Spanish 
