@@ -38,8 +38,8 @@
 <a href="https://www.hackerrank.com/mari_fujikawa97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mari_fujikawa97" height="30" width="40" /></a>
 </p>
 
-- 🌱 I’m currently learning **Vuejs and dotnet**
-- 💬 Ask me about **css, Vuejs, Angular**
+- 🌱 I’m currently learning **Ruby on Rails and .NET**
+- 💬 Ask me about **Laravel, PHP, React, Vuejs, Angular**
 
 <p></p>
 
@@ -56,5 +56,4 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marifujikawa&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marifujikawa" height="150" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marifujikawa&show_icons=true&locale=en&theme=dracula" alt="marifujikawa" height="150"/>
-</p>
+
